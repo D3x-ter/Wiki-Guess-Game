@@ -7,7 +7,7 @@ This is my first ever try at coding with Python. Any feedbacks will be appreciat
 This game is absolutely useless. It is based on what I used to play with some friends. Here are the rules:
 
 1. Choose 2 random words
-2. Go to the wikipedia page of your first word
+2. Go to the wikipedia page of your first word (actually for wiki french fr.wikipedia.org)
 3. Find a way to reach the page of your second word only by using the links on the page
 (Kind of links like dictionary, index etc is forbidden)
 
@@ -19,6 +19,7 @@ Things that could be implemented:
 - Limit the number of hint words the user can input 
 - Eventually make a score board that could ggive more points if you give less hints
 - A function to automatically delete this useless code et clean the console and get more sleep-time instead ;)
+- eventually implement for wiki in english by replacing the excluded url items.
 
 
 Best
