@@ -8,10 +8,10 @@ This game is absolutely useless. It is based on what I used to play with some fr
 
 1. Choose 2 random words
 2. Go to the wikipedia page of your first word
-3. Find a way to reach the page of your ssecond wors only by using the links on the page
-(Kind of links to dictionary, index etc is forbidden)
+3. Find a way to reach the page of your second word only by using the links on the page
+(Kind of links like dictionary, index etc is forbidden)
 
-As this is an automated tool, We can give him some hint words to help him find his way.
+As this is an automated tool, we can give him some hint words to help him find his way (They cannot be used more than once)
 
 
 Things that could be implemented:
