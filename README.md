@@ -21,6 +21,7 @@ Things that could be implemented:
 - A function to automatically delete this useless code et clean the console and get more sleep-time instead ;)
 - eventually implement for wiki in english by replacing $base_url string
 - add a function to go last visited page in case of error
+- add a function to check at the beginning if start and end pages do exist
 
 
 Best
